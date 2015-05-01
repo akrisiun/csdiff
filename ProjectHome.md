@@ -1,0 +1,1 @@
+A library written in C# that implements a generic diff algorithm and provides a class to create and merge unified diff patches.
